@@ -17,6 +17,7 @@ public class HelloWorld {
         System.out.println("hello");
         System.out.println("welcome to demo of GitHub");
         // TODO code application logic here
+        // this file is ready fro fetch and merge
     }
     
 }
